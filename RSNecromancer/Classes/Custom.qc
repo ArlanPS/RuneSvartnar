@@ -1,0 +1,22 @@
+// $animation <Group> <Name> <StartFrame> <NumFrames> <AnimRate>
+$animation None baseframe 0 1 10
+$animation None IDL_SBEAST_breathe1_AN0N 1 12 10
+$animation None bite 13 8 12
+$animation None swipeR 21 11 12
+$animation None Walk 32 12 10
+$animation None swipeL 44 11 12
+$animation None run 55 12 15
+$animation None Death 67 12 10
+$animation None howl 79 29 10
+$animation None cower 108 18 10
+$animation None drown 126 10 20
+$animation None drown_death 136 17 10
+$animation None Leep 153 24 15
+$animation None LeepR 177 19 15
+$animation None DeathF 196 11 16
+$animation None CorpseA 207 24 12
+$animation None CorpseB 231 20 12
+$animation None CorpseC 251 17 12
+$animation None deathL 268 13 16
+$animation None BreakinA 281 9 14
+$animation None BreakinB 290 24 18
